@@ -57,3 +57,8 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 ⚠️ Do NOT share your API key publicly.
 
+---
+
+## 🌐 Live Demo
+
+[(Take a look)](https://weather-app-ten-theta-ka0s9t4y2v.vercel.app/)
